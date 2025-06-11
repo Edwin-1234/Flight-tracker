@@ -30,7 +30,7 @@ A simple and interactive flight tracker built with **Python** and **Streamlit**,
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/your-username/Flight-tracker.git
+git clone https://github.com/Edwin-1234/Flight-tracker.git
 cd flight-tracker
 
 # 2. Create a .env file and add your API key
