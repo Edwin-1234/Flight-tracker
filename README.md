@@ -45,8 +45,3 @@ streamlit run flight_tracker_web.py
 ```
 ---
 
-## 📦 Deployment (Streamlit Cloud)
-1. Visit https://streamlit.io/cloud  
-2. Sign in with GitHub  
-3. Connect this repo and click Deploy  
-4. Add AVIATIONSTACK_API_KEY in the “Secrets” tab under Settings 
